@@ -14,10 +14,7 @@
   "dependencies": {
     "@types/node": "^13.1.8",
     "axios": "^0.20.0",
-    "got": "^11.7.0",
-    "nock": "^13.3.0",
-    "request": "^2.88.0",
-    "request-promise": "^4.2.5"
+    "nock": "^13.3.0"
   },
   "devDependencies": {
     "prettier": "^1.19.1",
